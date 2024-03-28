@@ -4,7 +4,6 @@
   </a>
 </p>
 
-UNOlympique est un jeu qui reprend toutes les règles **originales** du jeu du _UNO_, basé en Python3.
 
 ***
 # 📦 Dépendences

@@ -25,6 +25,8 @@ Pour vous assurer que toutes les bibliothèques sont configurées proprement, vo
 ***
 
 # 🕹️ Comment jouer ?
+- [Télécharger le jeu](https://codeload.github.com/adrienschndr/UNOlympique/zip/refs/heads/main) puis extraire les fichiers du jeu
+- Ouvrir le dossier `UNOlympique-main`
 - Lancer le _script_ `demarrer_jeu.py`
 ***
 
@@ -39,6 +41,8 @@ Pour se faire, vous devez au préalable avoir deux ordinateurs :
 
 ## 📑 Instructions
 ### 1️⃣ Sur l'ordinateur qui possède les droits d'administrateur
+- [Télécharger le jeu](https://codeload.github.com/adrienschndr/UNOlympique/zip/refs/heads/main) puis extraire les fichiers du jeu
+- Ouvrir le dossier `UNOlympique-main`
 - Lancez le *script* `demarrer_serveur.py`
 > **Note** : Il est possible que votre ordinateur affiche une fenêtre concernant le pare-feu Windows. 
 <details>
@@ -72,6 +76,8 @@ Une adresse IP est l'adresse où se trouve votre ordinateur au sein d'un réseau
 ❌ Si l'IP que vous venez d'écrire disparaît, vous avez fait une erreur dans le processus. Relisez attentivement le guide.
 
 ### 2️⃣ Sur l'autre ordinateur
+- [Télécharger le jeu](https://codeload.github.com/adrienschndr/UNOlympique/zip/refs/heads/main) puis extraire les fichiers du jeu
+- Ouvrir le dossier `UNOlympique-main`
 - Lancer le _script_ `demarrer_jeu.py`
 - Une fois le jeu lancé, cliquez sur « DUO », puis, tapez l'IP inscrite sur le tableau. Puis appuyez sur `<Entrée>` ou cliquez sur le bouton de validation
 

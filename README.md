@@ -27,7 +27,7 @@ Pour se faire, vous devez au préalable avoir deux ordinateurs :
 - Dont au moins un des deux ordinateurs soit basé sur Windows et possède les droits d'administrateur
 
 ## Instructions
-**Sur l'ordinateur qui possède les droits d'administrateur :**
+### Sur l'ordinateur qui possède les droits d'administrateur
 - Lancez le *script* `demarrer_serveur.py`
 > **Note** : Il est possible que votre ordinateur affiche une fenêtre concernant le pare-feu Windows. 
 <details>
@@ -64,7 +64,7 @@ Une adresse IP est l'adresse où se trouve votre ordinateur au sein d'un réseau
 ❌ Si l'IP que vous venez d'écrire disparaît, vous avez fait une erreur dans le processus.
 - Une erreur s'est glisée lors du processus de configuration du serveur, vous dezvez recommencer.
 
-**Sur l'autre ordinateur :**
+### Sur l'autre ordinateur
 - Lancer le _script_ `demarrer_jeu.py`
 - Une fois le jeu lancé, cliquez sur « DUO », puis, tapez l'IP inscrite sur le tableau. Puis appuyez sur `<Entrée>` ou cliquez sur le bouton de validation
 

@@ -1,4 +1,4 @@
-from sources.constantes_globales import *
+from constantes_globales import *
 
 
 def ecran_victoire(gagnant):

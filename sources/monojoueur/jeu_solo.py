@@ -3,8 +3,8 @@ from random import *
 
 import pygame.time
 
-from sources.constantes_globales import *
-from sources.monojoueur.constantes_monojoueur import *
+from constantes_globales import *
+from monojoueur.constantes_monojoueur import *
 
 
 # Création de la pioche

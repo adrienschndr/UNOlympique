@@ -1,7 +1,7 @@
 from sys import exit  # for exit()
-from sources.multijoueur.constantes_multijoueur import Carte
-from sources.constantes_globales import *
-from sources.multijoueur.liaison_serveur_client import EchangeServeurClient  # Custom network class
+from multijoueur.constantes_multijoueur import Carte
+from constantes_globales import *
+from multijoueur.liaison_serveur_client import EchangeServeurClient  # Custom network class
 
 
 class Bouton:

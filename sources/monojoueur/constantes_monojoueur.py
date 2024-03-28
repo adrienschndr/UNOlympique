@@ -1,7 +1,7 @@
 # Importation des bibliothèques
 import pygame
 
-from sources.routines_piles import *
+from routines_piles import *
 
 clock = pygame.time.Clock()
 

@@ -85,3 +85,5 @@ Les deux ordinateurs sont alors dans la même partie de UNO et les joueurs peuve
 ***
 # ⚖️ Mentions légales
 Le jeu UNO est une marque déposée appartenant à Mattel, Inc. La société détient les droits sur le jeu et la propriété intellectuelle qui y est associée, y compris la conception des cartes et les règles du jeu. 
+
+Les logos des Jeux Olympiques et des Jeux Paralympiques sont déposés respectivement par le Comité International Olympique (CIO) et le Comité International Paralympique (CIP) et en détiennent les droits exclusifs.

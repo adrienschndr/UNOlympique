@@ -1,0 +1,44 @@
+
+# UNOlympique
+
+UNOlympique est un jeu qui reprend toutes les règles **originales** du jeu du _UNO_, basé en Python.
+
+
+# Dépendences
+
+UNOlympique utilise la bibliothèque `Pygame`.
+```
+pip install pygame
+```
+Aussi, le jeu utilise les bibliothèques suivantes, pré-installées avec Python : 
+
+`socket`, `os`, `_thread`, `multiprocessing`, `sys`, `traceback`, `random`, `importlib.util`
+
+Pour vous assurer que toutes les bibliothèques sont configurées proprement, vous pouvez lancer le *script* `verifier_bibliotheques.py`
+
+# Mode « DUO »
+
+UNOlympique vous permet de jouer à deux joueurs simultanément, sur deux ordinateurs.
+
+Pour se faire, vous devez au préalble avoir deux ordinateurs :
+- Qui possèdent toutes les dépendences nécessaires au lancement du jeu.
+- Qui sont connectés au même réseau
+- Qu'au moins un des deux ordinateurs possède les droits d'administrateur
+
+Sur l'ordinateur qui possède les droits d'administrateur :
+- Lancer le *script* `demarrer_serveur.py`
+- Il est possible que votre ordinateur affiche une fenêtre semblable à celle-ci :
+[![N|Solid](https://www.informatiweb.net/images/tutoriels/Windows/configuration%20pare-feu/windows-10-11/1-programme/1-alerte-de-securite-windows-10.jpg)]()
+
+Cette fenêtre vous demande si vous souhaitez autoriser Python à laisser d'autres ordinateurs se connecter à celui-ci. Cela est nécessaire afin que les joueurs puissent se connecter à un même serveur pour pouvoir s'affronter.
+- Dans la console, devrait s'afficher un tableau semblable à celui-ci :
+```
+-----------------------------------------------------------------
+| ℹ️ | Adresse IP du serveur            | 127.0.1.1             |
+| ✅ | Statut du serveur                | Connecté              |
+| ⏳ | En attente de joueurs...         | 0 / 2                 |
+-----------------------------------------------------------------
+```
+Note : Vous pouvez obtenir une adresse IP différente que celle mise dans l'exemple (`127.0.1.1`).
+
+Une adresse IP est l'adresse où se trouve votre ordinateur au sein d'un réseau informatique. Elle devra être renseignée par les joueurs qui veulent s'affronter. Tâchez donc de retenir l'adresse indiquée dans la console Python.

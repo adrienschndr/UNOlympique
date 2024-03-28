@@ -4,6 +4,10 @@
   </a>
 </p>
 
+UNOlympique est une adaptation du jeu _Uno_ en Python, jeu vidéo bien connu du grnad public.
+Le jeu propose deux modes de jeu :
+- « SOLO » : joueur contre ordinateur
+- « DUO » : joueur contre joueur, [voir instructions de mise en place](https://github.com/adrienschndr/UNOlympique?tab=readme-ov-file#-configurer-le-mode--duo-)
 
 ***
 # 📦 Dépendences

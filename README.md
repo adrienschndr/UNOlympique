@@ -13,10 +13,12 @@ Le jeu propose deux modes de jeu :
 # 📦 Dépendences
 
 UNOlympique utilise la bibliothèque `Pygame`.
-Il est important d'avoir la dernière version de la bibliothèque pour que le jeu s'execute correctement, exécutez dans un Terminal (cmd) :
+Il est important d'avoir la dernière version de la bibliothèque pour que le jeu s'execute correctement, même si `Pygame` est installé, exécutez dans un Terminal (cmd) :
 ```sh
-pip install -I 'pygame>=2.5.2' 
+pip install -I requirements.txt
 ```
+> **Note** : le paramètre `-I` est nécessaire car il écrase l'ancienne version de `Pygame` si elle était déjà installée. Cela permet d'éviter tout problème de compatibilité.
+
 Aussi, le jeu utilise les bibliothèques suivantes, pré-installées avec Python : 
 
 `socket`, `os`, `_thread`, `multiprocessing`, `sys`, `traceback`, `random`, `importlib.util`

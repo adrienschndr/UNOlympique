@@ -29,8 +29,9 @@ Pour se faire, vous devez au préalble avoir deux ordinateurs :
 Sur l'ordinateur qui possède les droits d'administrateur :
 - Lancez le *script* `demarrer_serveur.py`
 > **Note** : Il est possible que votre ordinateur affiche une fenêtre semblable à celle-ci :
+<details>
 [[Message_pare-feu](https://www.informatiweb.net/images/tutoriels/Windows/configuration%20pare-feu/windows-10-11/1-programme/1-alerte-de-securite-windows-10.jpg)]()
-
+</details>
 > Cette fenêtre vous demande si vous souhaitez autoriser Python à laisser d'autres ordinateurs se connecter à celui-ci.
 > Cela est nécessaire afin que les joueurs puissent se connecter à un même serveur pour pouvoir s'affronter.
 - Dans la console, devrait s'afficher un tableau semblable à celui-ci :

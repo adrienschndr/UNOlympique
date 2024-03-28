@@ -7,7 +7,7 @@ UNOlympique est un jeu qui reprend toutes les règles **originales** du jeu du _
 # Dépendences
 
 UNOlympique utilise la bibliothèque `Pygame`.
-Il est important d'avoir la dernière version de la bibliothèque pour que le jeu s'execute correctement, dans un Terminal :
+Il est important d'avoir la dernière version de la bibliothèque pour que le jeu s'execute correctement, exécutez dans un Terminal :
 ```
 pip install -I 'pygame>=2.5.2'
 ```
@@ -29,7 +29,7 @@ Pour se faire, vous devez au préalble avoir deux ordinateurs :
 Sur l'ordinateur qui possède les droits d'administrateur :
 - Lancez le *script* `demarrer_serveur.py`
 > **Note** : Il est possible que votre ordinateur affiche une fenêtre semblable à celle-ci :
-[Message pare-feu](https://www.informatiweb.net/images/tutoriels/Windows/configuration%20pare-feu/windows-10-11/1-programme/1-alerte-de-securite-windows-10.jpg)]()
+[[Message pare-feu](https://www.informatiweb.net/images/tutoriels/Windows/configuration%20pare-feu/windows-10-11/1-programme/1-alerte-de-securite-windows-10.jpg)]()
 
 > Cette fenêtre vous demande si vous souhaitez autoriser Python à laisser d'autres ordinateurs se connecter à celui-ci.
 > Cela est nécessaire afin que les joueurs puissent se connecter à un même serveur pour pouvoir s'affronter.

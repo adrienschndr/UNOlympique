@@ -1,7 +1,7 @@
 # Importations des modules nécessaires
 import traceback
 import random
-from multijoueur.constantes_multijoueur import Carte, liste_toutes_cartes
+from sources.multijoueur.constantes_multijoueur import Carte, liste_toutes_cartes
 
 
 def affiche(liste_carte):

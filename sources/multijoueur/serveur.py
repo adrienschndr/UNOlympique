@@ -1,9 +1,9 @@
 import socket  # Interaction Serveur-Client
 import os  # Infos sur l'Interface
 from _thread import *
-from multijoueur.systeme_de_jeu import Game  # Charge le système de jeu
+from sources.multijoueur.systeme_de_jeu import Game  # Charge le système de jeu
 from multiprocessing.connection import Listener  # Module pour gérer les connexions multiples et actions simulatnées des clients sur le serveur
-from multijoueur.constantes_multijoueur import tableaux_serveur  # Fonction qui permet l'affichage des tableaux dans les scripts
+from sources.multijoueur.constantes_multijoueur import tableaux_serveur  # Fonction qui permet l'affichage des tableaux dans les scripts
 
 
 adresse_ip = socket.gethostbyname(socket.gethostname())  # Adresse IP du Serveur

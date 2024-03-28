@@ -3,8 +3,8 @@ from random import *
 
 import pygame.time
 
-from constantes_globales import *
-from monojoueur.constantes_monojoueur import *
+from sources.constantes_globales import *
+from sources.monojoueur.constantes_monojoueur import *
 
 
 # Création de la pioche
@@ -109,9 +109,9 @@ def monojoueur():
                         ordre_de_jeu[0], ordre_de_jeu[1] = ordre_de_jeu[1], ordre_de_jeu[0]
         if not joueur.liste_carte:
             running = False
-            from monojoueur.ecran_victoire import ecran_victoire
+            from sources.monojoueur.ecran_victoire import ecran_victoire
             ecran_victoire(joueur.nom_joueur)
         if not ordinateur.liste_carte:
             running = False
-            from monojoueur.ecran_victoire import ecran_victoire
+            from sources.monojoueur.ecran_victoire import ecran_victoire
             ecran_victoire(ordinateur.nom_joueur)

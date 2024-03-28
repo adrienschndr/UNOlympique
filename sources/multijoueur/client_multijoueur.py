@@ -1,7 +1,7 @@
 from sys import exit  # for exit()
-from multijoueur.constantes_multijoueur import Carte
-from constantes_globales import *
-from multijoueur.liaison_serveur_client import EchangeServeurClient  # Custom network class
+from sources.multijoueur.constantes_multijoueur import Carte
+from sources.constantes_globales import *
+from sources.multijoueur.liaison_serveur_client import EchangeServeurClient  # Custom network class
 
 
 class Bouton:
@@ -153,7 +153,7 @@ def actualiser_fenetre(fenetre, variables_jeu, id_joueur):
         cartes_affichees = cartes_actualisees  # Met à jour les cartes déjà affichées
 
         if not cartes_adversaire or not cartes_joueur:
-            from multijoueur.ecran_victoire import ecran_fin
+            from sources.multijoueur.ecran_victoire import ecran_fin
             ecran_fin()
             return False
 

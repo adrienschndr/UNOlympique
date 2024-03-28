@@ -1,5 +1,4 @@
-from monojoueur.constantes_monojoueur import *
-from constantes_globales import *
+from sources.constantes_globales import *
 
 
 def ecran_victoire(gagnant):
@@ -26,7 +25,7 @@ def ecran_victoire(gagnant):
                 clic_x, clic_y = pygame.mouse.get_pos()
                 if 513 <= clic_x <= 808 and 839 <= clic_y <= 942:
                     running = False
-                    from menu import menu_principal
+                    from sources.menu import menu_principal
                     menu_principal()
                 if 1111 <= clic_x <= 1411 and 843 <= clic_y <= 943:
                     running = False

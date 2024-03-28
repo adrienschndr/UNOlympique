@@ -12,7 +12,6 @@ UNOlympique est un jeu qui reprend toutes les règles **originales** du jeu du _
 UNOlympique utilise la bibliothèque `Pygame`.
 Il est important d'avoir la dernière version de la bibliothèque pour que le jeu s'execute correctement, exécutez dans un Terminal (cmd) :
 ```sh
-# Installe la dernière version de PyGame. Si la bibliothèque était déjà installée, elle est écrasée par la nouvelle version
 pip install -I 'pygame>=2.5.2' 
 ```
 Aussi, le jeu utilise les bibliothèques suivantes, pré-installées avec Python : 

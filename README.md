@@ -84,10 +84,9 @@ Une adresse IP est l'adresse où se trouve votre ordinateur au sein d'un réseau
 Les deux ordinateurs sont alors dans la même partie de UNO et les joueurs peuvent alors s'affronter.
 ***
 # ⚖️ Mentions légales
-Le jeu UNO est une marque déposée appartenant à Mattel, Inc. La société détient les droits exclusifs sur le jeu et la propriété intellectuelle qui y est associée, y compris la conception des cartes et les règles du jeu. 
+Sont utilisés à des fins non commericales, non lucratives, pédagogiques, les éléments suivants :
+- Le jeu UNO est une marque déposée appartenant à Mattel, Inc. La société détient les droits exclusifs sur le jeu et la propriété intellectuelle qui y est associée, y compris la conception des cartes et les règles du jeu. 
+- Les logos des Jeux Olympiques et des Jeux Paralympiques sont déposés respectivement par le Comité International Olympique (CIO) et le Comité International Paralympique (CIP) et en détiennent les droits exclusifs.
+- La mascotte des Jeux Olympiques de Paris 2024 ainsi que le logo officiel des Jeux Olympiques de Paris 2024 sont la propriété du Comité d'organisation des Jeux Olympiques et Paralympiques de Paris 2024 (COJO Paris 2024) et en détiennent les droits exclusifs.
 
-Les logos des Jeux Olympiques et des Jeux Paralympiques sont déposés respectivement par le Comité International Olympique (CIO) et le Comité International Paralympique (CIP) et en détiennent les droits exclusifs.
-
-La mascotte des Jeux Olympiques de Paris 2024 ainsi que le logo officiel des Jeux Olympiques de Paris 2024 sont la propriété du Comité d'organisation des Jeux Olympiques et Paralympiques de Paris 2024 (COJO Paris 2024) et en détiennent les droits exclusifs.
-
-Les éléments cités précédemment sont utilisés à des fins non commericales, non lucratives, pédagogiques. Tous droits réservés aux sociétés et comités cités précédemment.
+Tous droits réservés aux sociétés et comités détenteurs des droits de ces éléments

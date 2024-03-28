@@ -21,7 +21,7 @@ Aussi, le jeu utilise les bibliothèques suivantes, pré-installées avec Python
 Pour vous assurer que toutes les bibliothèques sont configurées proprement, vous pouvez lancer le *script* `verifier_bibliotheques.py`.
 ***
 
-# 🕹️ Jouer
+# 🕹️ Comment jouer ?
 - Lancer le _script_ `demarrer_jeu.py`
 ***
 

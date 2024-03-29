@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/sebanc/brunch" title="Brunch">
+  <a href="https://github.com/adrienschndr" title="UNOlympique">
    <img src="https://i.imgur.com/Uu54bjE.png" alt="Logo"/>
   </a>
 </p>
@@ -9,6 +9,7 @@ Le jeu propose deux modes de jeu :
 - « SOLO » : joueur contre ordinateur
 - « DUO » : joueur contre joueur, [voir instructions de mise en place](https://github.com/adrienschndr/UNOlympique?tab=readme-ov-file#-configurer-le-mode--duo-)
 
+## 📹 Vidéo : [UNOlympique - Démonstration](https://youtu.be/eUzHQpJx7u0)
 ***
 # 📦 Dépendences
 
